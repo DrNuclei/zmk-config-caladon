@@ -1,4 +1,4 @@
-# Custom Keyboard Caladon
+# Custom Keyboard Tarant
 
 After building a few keyboards for productivity and gaming, I decided to try my hand and create a custom keyboard from scratch. The goal was to create a compact keyboard for my iPad Mini/Apple Vision Pro, these devices are my go-to travel workstations, depending on the environment I would either enter Spatial reality and get work done, or if it is a quick thing I will grab my iPad Mini. However both these devices are in sore need of a keyboard, and after watching Christian Selig demonstrate the posibilities of Ergogen, I lept to work.
 
